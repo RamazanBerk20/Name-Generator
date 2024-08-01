@@ -1,2 +1,2 @@
 numpy
-requets
+requests
