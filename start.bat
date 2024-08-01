@@ -1,1 +1,1 @@
-generateNames.py && main.py
+Scripts\activate.bat && generateNames.py && main.py
