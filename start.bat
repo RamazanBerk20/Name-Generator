@@ -1,1 +1,0 @@
-Scripts\activate.bat && generateNames.py && main.py
