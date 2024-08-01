@@ -1,0 +1,1 @@
+generateNames.py && main.py
